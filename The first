@@ -1,0 +1,39 @@
+<html>
+
+<head>
+
+<style>
+
+/* Write your code here */
+a{
+	background-color: green;
+	color: white;
+	text-decoration: blink;
+	border-radius: 7px;
+	border: 1px;
+	border-style: ridge;
+	border-color: red;
+}
+
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<div class="menu">
+
+  <a href="home.html">Home</a>
+
+  <a href="about.html">About</a>
+
+  <a href="contacts.html">Contacts</a>
+
+</div>
+
+</body>
+
+</html>
